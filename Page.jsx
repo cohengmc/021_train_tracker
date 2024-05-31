@@ -7,7 +7,7 @@ export default function Page() {
     <div>
 
       <Nav />
-      <img id="usa-map" src="map" alt="USA Map" />
+      <img id="usa-map" src={map} alt="USA Map" />
       
     </div>
   );
